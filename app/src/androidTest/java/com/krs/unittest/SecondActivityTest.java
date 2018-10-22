@@ -1,6 +1,5 @@
-package demo.krs.com.myapplication;
+package com.krs.unittest;
 
-import android.support.test.rule.ActivityTestRule;
 import android.view.View;
 import android.widget.RelativeLayout;
 

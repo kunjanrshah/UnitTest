@@ -1,4 +1,4 @@
-package demo.krs.com.myapplication;
+package com.krs.unittest;
 
 import android.app.Fragment;
 import android.os.Bundle;

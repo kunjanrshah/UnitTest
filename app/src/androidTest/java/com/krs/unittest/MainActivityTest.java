@@ -1,4 +1,4 @@
-package demo.krs.com.myapplication;
+package com.krs.unittest;
 
 import android.app.Activity;
 import android.app.Instrumentation;
